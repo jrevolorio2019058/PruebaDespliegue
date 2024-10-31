@@ -11,7 +11,7 @@ public class PruebaController {
     @GetMapping("/saludo")
     public String saludo() {
 
-        return "<h1>Bienvenido al Programa Desplegado</h1>";
+        return "<h1>Jorge Abraham Revolorio Mazariegos</h1>";
 
     }
 
